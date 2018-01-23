@@ -2,4 +2,7 @@
 /logs/*
 !/logs/README.md
 *.log
-.idea
+.idea/*
+.idea/inspectionProfiles/
+.idea/vcs.xml
+.idea/workspace.xml
